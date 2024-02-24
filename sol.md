@@ -78,7 +78,7 @@ Check X thì ta không thấy gì đặc biệt, tạm thời bỏ qua:
 
 ![image](https://github.com/NamDT5125/osintet/assets/69895129/6be1e4a0-918b-4f45-bea0-10758bf58b59)
 
-Ta thấy có dòng chữ contact email for work, mạnh dạn đoán email là `m1ssgr4ndvi3tnam@gmail.com` và gửi bừa cho email đó, ta nhận được p1 flag twrLwcA!J0}bH0*b2C0: 
+Ta thấy có dòng chữ contact email for work, mạnh dạn đoán email là `m1ssgr4ndvi3tnam@gmail.com` và gửi bừa cho email đó, ta nhận được p1 flag twrLwcA!J0}bH0*b2C0 và sử dụng rot47 ra là EHC{H4pPy_N3w_Y3ar_
 
 ![image](https://github.com/NamDT5125/osintet/assets/69895129/a21eb136-8c80-436f-b864-426c29813755)
 
